@@ -77,12 +77,14 @@ def load_data(city, month, day):
         df = df.loc[df['month'] == month]
 
     if day != 'all':
+        print("day!=all")
         df = df.loc[df['day_of_week'] == day.title()]
 
     return df
 
 
 def time_stats(df):
+    print(df)
     """Displays statistics on the most frequent times of travel."""
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
