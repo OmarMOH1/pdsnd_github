@@ -4,18 +4,15 @@
 31-August-2021
 
 ### Project Title
-Replace the Project Title
+Github Project
 
 ### Description
-Describe what your project is about and what it does
+This is a practice github repository
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### Documentation
-This is the documentation branch
+https://github.com/udacity/pdsnd_github
 
 Additional changes
